@@ -2,7 +2,7 @@
 An Insta Profile Clone which allows user to check their Posts on the Insta grid before publishing them. The Clone was built from scratch using CSS and a backend with PHP.
 - Upload Your Own Images.
 - Delete and View Those Images.
-- The Biggest Highlight is the Precision of The CSS that has been done.
+- The Biggest **Highlight is the Precision of The CSS** that has been done.
 - Check Your Images in Both and Light Dark Insta Modes.
 
 ## Running This Project
